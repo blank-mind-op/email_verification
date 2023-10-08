@@ -1,4 +1,4 @@
-# email_verification
+# Email_verification
  python program that verifies whether the input string is an email or not
  # How it works
 
